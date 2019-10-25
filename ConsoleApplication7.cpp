@@ -11,6 +11,6 @@ int main(){
 
 	cout << "Hello\n";
 
-	cout << "Pozdrav iz aplikacije od Ane Cacije\n";
+	cout << "Pozdrav iz aplikacije od Ane Cacije\n index 1111\n";
 	return 0;
 }
